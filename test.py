@@ -1,5 +1,4 @@
 import os
-import sys
 from File_tree import FileTree
 
 path = os.path.abspath(os.path.dirname(__file__))
